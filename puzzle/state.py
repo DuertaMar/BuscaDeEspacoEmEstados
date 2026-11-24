@@ -80,7 +80,6 @@ class State:
         return resultado
     
         #"""Retorna a sequência de ações do estado inicial até este."""
-        # TODO: implemente usando path()
         #raise NotImplementedError
 
     def __eq__(self, other: object) -> bool:
